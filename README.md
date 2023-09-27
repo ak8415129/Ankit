@@ -12,16 +12,16 @@
 <p align="left">
 <a href="https://twitter.com/__a_n__k_i_t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashutosh-gautam-3747b3179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ashutosh___gautam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh___gautam" height="30" width="40" /></a>
- <a href="mailto:ashutoshgautam10b11@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashutosh___gautam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit" height="30" width="40" /></a>
+ <a href="mailto:ak8415129@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Skills
 
 ### Languages
 
-![typescript](https://img.shields.io/badge/C-3178C6?style=for-the-badge&logo=C&logoColor=white)
-![typescript](https://img.shields.io/badge/c++-3178C6?style=for-the-badge&logo=c++&logoColor=white)
+![C/C++](https://img.shields.io/badge/C-3178C6?style=for-the-badge&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/c++-3178C6?style=for-the-badge&logo=c++&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -57,6 +57,6 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-52449b206)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ak8415129)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ak8415129@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashutosh___gautam/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/official_ankit____________/)
 
 ---
