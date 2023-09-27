@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__a_n__k_i_t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashutosh-gautam-3747b3179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ashutosh___gautam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankit-kumar-52449b206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit" height="30" width="40" /></a>
+<a href="https://www.instagram.com/official_ankit____________/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit" height="30" width="40" /></a>
  <a href="mailto:ak8415129@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 
